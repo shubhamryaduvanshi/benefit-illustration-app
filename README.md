@@ -107,3 +107,13 @@ For 1,000,000+ records:
 - For CPU-bound projections, use **Node Worker Threads** within workers.
 - Stream inputs (DB cursors), write outputs in bulk, and paginate results for clients.
 
+## UI Screenshots
+<img width="1683" height="743" alt="Screenshot 2026-04-21 001729" src="https://github.com/user-attachments/assets/9a89867b-9b8b-4998-8d60-4b0c40da2121" />
+
+<img width="1683" height="743" alt="Screenshot 2026-04-21 001729" src="https://github.com/user-attachments/assets/5651a3f8-452c-4a88-bee7-516d1d61a0c2" />
+
+<img width="1667" height="858" alt="Screenshot 2026-04-21 001834" src="https://github.com/user-attachments/assets/9822af02-4ea3-4e44-97b9-7026741fb46c" />
+
+<img width="1672" height="803" alt="Screenshot 2026-04-21 001856" src="https://github.com/user-attachments/assets/49313f51-2256-4991-be78-846b41d4816a" />
+
+
